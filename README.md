@@ -6,9 +6,15 @@
 
 <p align="center">Soy <b>Álvaro Larraya</b> 😄, ingeniero informático graduado en la Universidad Pública de Navarra con mención en Computación y Sistemas Inteligentes 👨🏻‍💻. Tengo mucho interés en el mundo de los datos y la IA. 🚀</p>
 
+---
+
 <!-- ![alvarolarraya12's Stats](https://github-readme-stats.vercel.app/api?username=alvarolarraya12&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![alvarolarraya12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvarolarraya12&theme=dark&hide_border=true)
 ![alvarolarraya12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolarraya12&theme=dark&show_icons=true&hide_border=true&layout=compact) -->
+
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolarraya12&langs_count=8" />
+</a></div>
 
 ---
 
