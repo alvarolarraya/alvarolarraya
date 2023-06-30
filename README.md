@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
