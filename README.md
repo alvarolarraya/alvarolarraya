@@ -6,6 +6,8 @@
 
 Soy **Álvaro Larraya** 😄, ingeniero informático graduado en la Universidad Pública de Navarra con mención en Computación y Sistemas Inteligentes 👨🏻‍💻. Tengo mucho interés en el mundo de los datos y la IA. 🚀
 
+![Alvaro's GitHub stats](https://gh-stats-gen.vercel.app/api?username=alvarolarraya12)
+
 ---
 
 ```python
