@@ -1,4 +1,7 @@
-### Hi there 👋
+### Bienvenid@ a mi GitHub 🚀
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/othneildrew)
+
+Soy **Álvaro Larraya** 😄, ingeniero informático graduado en la Universidad Pública de Navarra con mención en Computación y Sistemas Inteligentes. Tengo mucho interés en el mundo de los datos y la IA.
 
 <!--
 **alvarolarraya12/alvarolarraya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
