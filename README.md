@@ -1,10 +1,10 @@
-# Bienvenid@ <img src="blob-wave.gif" width="30"/> a mi GitHub <img src="meow_bongotap.gif" width="30"/>
+<h1 align="center">Bienvenid@ <img src="blob-wave.gif" width="30"/> a mi GitHub <img src="meow_bongotap.gif" width="30"/></h1>
 
 <img src="background.png" width="100%"/>
 
 ---
 
-Soy **Álvaro Larraya** 😄, ingeniero informático graduado en la Universidad Pública de Navarra con mención en Computación y Sistemas Inteligentes 👨🏻‍💻. Tengo mucho interés en el mundo de los datos y la IA. 🚀
+<p align="center">Soy <b>Álvaro Larraya</b> 😄, ingeniero informático graduado en la Universidad Pública de Navarra con mención en Computación y Sistemas Inteligentes 👨🏻‍💻. Tengo mucho interés en el mundo de los datos y la IA. 🚀</p>
 
 ---
 
