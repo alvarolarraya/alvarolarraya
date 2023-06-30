@@ -17,7 +17,7 @@
 </a></div>
 
 ---
-## Contáctame 📞
+<h2 align="center"> Contáctame 📞 </h2>
 ```python
 if(interested):
     contactMeAt(badgesBelow)
