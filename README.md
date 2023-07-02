@@ -12,13 +12,13 @@ if(interested):
 ```
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/%C3%A1lvaro-larraya-830700240/">
+    <a href="https://www.linkedin.com/in/%C3%A1lvaro-larraya-830700240/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alvaro.larraya1@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alvaro.larraya1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="">
+    <a href="" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
